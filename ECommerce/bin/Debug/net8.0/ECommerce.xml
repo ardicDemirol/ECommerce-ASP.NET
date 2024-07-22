@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECommerce</name>
+    </assembly>
+    <members>
+        <member name="T:ECommerce.Migrations.PortfolioManyToMany">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.PortfolioManyToMany.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.PortfolioManyToMany.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.PortfolioManyToMany.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ECommerce.Migrations.CommentOneToOne">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.CommentOneToOne.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.CommentOneToOne.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ECommerce.Migrations.CommentOneToOne.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

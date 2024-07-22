@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\interfaces\\iportfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\ecommerce\\ecommerce\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DAE53D-87DF-4CF0-BFCA-FD2CE66DBABC}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 587,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwF0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:12:27.397Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Mappers\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Mappers\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Mappers\\CommentMapper.cs",
+              "RelativeToolTip": "ECommerce\\Mappers\\CommentMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:42:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "ECommerce\\Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:41:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "ECommerce\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:40:54.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "ECommerce\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:40:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "ECommerce\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:35:10.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:27:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1358152725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:579856920:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "ECommerce\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvx0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:46:11.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Interfaces\\IPortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeToolTip": "ECommerce\\Interfaces\\IPortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:44:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "ECommerce\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:40:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:28:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ECommerce\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:49:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Comment.cs",
+              "RelativeToolTip": "ECommerce\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:48:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Stock.cs",
+              "RelativeToolTip": "ECommerce\\Models\\Stock.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:33:38.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\AppUser.cs",
+              "RelativeToolTip": "ECommerce\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:32:35.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Models\\Portfolio.cs",
+              "RelativeToolTip": "ECommerce\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:30:50.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\StockController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\StockController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:30:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "ECommerce\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:19:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\ECommerce\\ECommerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:18:35.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
